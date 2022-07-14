@@ -48,3 +48,5 @@ These include:
 - tree sets
 - sequences.
 
+## Lists(slices) and Arrays
+The array or list(slice) is a sequence of elements. It is the most basic data structure in computing. Elements are added through PushBack method on a list in Go, and the values of the elements printed out with Value.
