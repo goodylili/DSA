@@ -57,3 +57,8 @@ method on a list in Go, and the values of the elements printed out with `Value`.
 A tuple is a finitely sorted list of elements. It is a data structure that groups data. They have related fields of different data types and
 are typically immutable sequential collections.  To modify a tuple, you just have to change fields using + or *. A database record is 
 referred to as a tuple.
+
+## Heaps
+A heap data structure is based on the `heap` property. It is used in selection, graph, and k-way merge algorithms. Operations like finding,
+merging, insertion, key changes, and deleting are performed on heaps. The value stored at each node is greater than or equal to its children.
+If it is in descending order, it is a maximum heap; otherwise, it's a minimum heap.
